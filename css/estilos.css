@@ -271,6 +271,7 @@ header {
 
 .section-um {
 
+	z-index: -1;
 	display: flex;
 	height: 205px;
 	border-bottom: 10px solid #000000;
